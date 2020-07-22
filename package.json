@@ -1,0 +1,14 @@
+{
+  "name": "sgdbheroku",
+  "version": "1.0.0",
+  "description": "This is a repository to manager my databases from Heroku",
+  "main": "index.js",
+  "repository": "https://github.com/chicofariasneto/sgdbHeroku.git",
+  "author": "chicofariasneto",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.3.0"
+  }
+}
